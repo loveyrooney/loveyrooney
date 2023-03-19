@@ -1,4 +1,4 @@
-<h2> Hello, Rooney! </h2>
+<h2> Hi there, this is Rooney! </h2>
 <ul>
 <h4>✍️저는 작업할 때 다음을 꼭 체크해요 </h4>
   <li> 개발 전 : 왜 이 기술, 이 방법을 사용하려는 것인가 </li>
