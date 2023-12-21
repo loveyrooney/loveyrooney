@@ -1,12 +1,12 @@
 <h2> Hi there, this is Rooney! </h2>
 <ul>
-<h4>✍️저는 작업할 때 다음을 꼭 체크해요 </h4>
-  <li> 개발 전 : 왜 이 기술, 이 방법을 사용하려는 것인가 </li>
-  <li> 개발 중 : 코드가 복잡해지는가, 효율적인가 </li>
-  <li> 개발 후 : 전체 코드 흐름 시뮬레이션하면서 예상되는 문제상황 발견하기 </li>
+<h4>✍️작업할 때 혼란의 늪에 빠지지 않기 위한 직관적인 체크사항 </h4>
+  <li> 개발 전 : 왜 이 기술과 구조를 사용하려는 것인가 </li>
+  <li> 개발 중 : 왜 이 방법을 사용하려는 것인가 </li>
+  <li> 개발 후 : 고도화나 운영 시 예상되는 앞으로의 상황에서 가장 우선이 되는 목적이 무엇인가 </li>
 </ul>
   
-<h4> Language / Framework / Library </h4>  
+<h4> Language / Framework </h4>  
 <span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"></span> 
@@ -15,6 +15,7 @@
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/java-6DB33F?style=flat-square&logo=java&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></span>
 
 <h4> DB </h4>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></span> <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></span> <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></span> 
