@@ -10,9 +10,7 @@
 <span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"></span> 
-<span><img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"></span>
-<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/java-6DB33F?style=flat-square&logo=java&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></span>
