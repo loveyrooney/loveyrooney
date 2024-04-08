@@ -11,7 +11,8 @@
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"></span><br>
-<span><img src="https://img.shields.io/badge/java-6DB33F?style=flat-square&logo=java&logoColor=white"/></span> 
+<span><img src="https://img.shields.io/badge/java-6DB33F?style=flat-square&logo=java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/jsp-6DB33F?style=flat-square&logo=jsp&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></span><br>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></span>
 
