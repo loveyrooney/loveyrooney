@@ -8,21 +8,26 @@
 </ul>
   
 <h4> Language / Framework </h4>
-<span><img src="https://img.shields.io/badge/java-6DB33F?style=flat-square&logo=java&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/jsp-6DB33F?style=flat-square&logo=jsp&logoColor=white"/></span> 
-<span><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></span><br>
-<span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></span> 
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></span> 
-<span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"></span> 
-<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"></span><br>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Jsp-007396?style=flat&logo=Jsp&logoColor=white"/></span> 
+<span><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/></span><br>
+<span><img src="https://img.shields.io/badge/Javascript-gray?logo=javascript"/></span> 
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"></span> 
+<span><img src="https://img.shields.io/badge/Express-gray?style=flat&logo=Express&logoColor=white"></span> 
+<span><img src="https://img.shields.io/badge/React-gray?style=flat&logo=React&logoColor=61DAFB"></span><br>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
 
 <h4> DB </h4>
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></span> <span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"></span> <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></span> 
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></span> 
+<span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariadb&logoColor=white"></span> 
+<span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"></span> 
+
 <h4> Dev Ops </h4>
-<span><img src="https://img.shields.io/badge/aws EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
+<span><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"> </span>
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"> </span>
+<span><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"></span>
 
-
+<h4>Stats</h4>
 
 
 
