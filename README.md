@@ -25,13 +25,12 @@
 <span><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"> </span>
 <span><img src="https://img.shields.io/badge/Linux-gray?style=flat&logo=Linux&logoColor=white"> </span>
 
+## Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loveyrooney)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonkane710)](https://solved.ac/sonkane710/)
 
 The sun will no more be your light by day <br>
 , nor will the brightness of the moon shine on you <br>
 , for the LORD will be your everlasting light <br>
 , and your God will be your glory.<br>
 Isaiah 60:19
-
-
-
-
