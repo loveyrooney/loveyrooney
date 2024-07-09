@@ -14,11 +14,10 @@
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/Express-gray?style=flat&logo=Express&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/React-gray?style=flat&logo=React&logoColor=61DAFB"></span><br>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
 
 #### Database
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariadb&logoColor=white"></span> 
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"></span> 
 
 #### Dev Ops 
