@@ -10,6 +10,8 @@
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jsp-007396?style=flat&logo=Jsp&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/></span><br>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/></span><br>
 <span><img src="https://img.shields.io/badge/Javascript-gray?logo=javascript"/></span> 
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/Express-gray?style=flat&logo=Express&logoColor=white"></span> 
@@ -17,6 +19,7 @@
 
 #### Database
 <span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariadb&logoColor=white"></span> 
+<span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"></span> 
 
